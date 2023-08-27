@@ -1,0 +1,4 @@
+nameOfHuman = ''
+
+
+print(input())
